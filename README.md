@@ -2,4 +2,7 @@
 
 created by 2018-01-03, Nick, Walt Disney 
 reference:
-https://github.com/SJX516/AndroidStudio-JavaCodeColor
+
+1 https://github.com/SJX516/AndroidStudio-JavaCodeColor
+
+2 font "Menlo"
